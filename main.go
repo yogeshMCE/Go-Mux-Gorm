@@ -1,5 +1,6 @@
 package main
 
+// main
 func main() {
 	app := App{}
 	app.Initialize()
